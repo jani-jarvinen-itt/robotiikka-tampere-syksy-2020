@@ -1,0 +1,4 @@
+Maija;25
+Masa;33
+Pena;74
+Teppo;29
